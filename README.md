@@ -9,7 +9,7 @@ Esta profesión me permitió acrecentar mis habilidades comunicacionales, trabaj
 - ✍ Mi meta es poder continuar aprendiendo nuevas tecnologías y poder profundizar en las ya estudiadas, 
 como así también lograr insertarme laboralmente en el mundo IT.
 - 👯 Me gustaría colaborar en proyectos con las tecnologías mencionadas anteriormente.
-- 🌱 Actualmente estoy estudiando ReactJS en la plataforma de CoderHouse.
+- 🌱 Actualmente estoy estudiando ReactJS en la plataforma de Codeacademy.
 - 📫 Podés contactarme a través de mi e-mail: florencializardo77@gmail.com
 - 💬 Podemos comunicarnos en español, mi lengua nativa, o en italiano.
 
@@ -23,7 +23,7 @@ Questa professione mi ha permesso di ampliare le mie abilità comunicazionali, i
 
 - ✍ Vorrei poter continuare ad imparare delle nuove tecnologie, approfondire su quelle già studiate ed anche inserirmi nel mondo lavorativo IT.
 - 👯 Mi piacerebbe contribuire in diversi proggetti con delle tecnologie sopra menzionate.
-- 🌱 Al momento, studio ReactJS sulla piattaforma di CoderHouse.
+- 🌱 Al momento, studio ReactJS sulla piattaforma di Codeacademy.
 - 📫 Puoi contattarmi tramite e-mail: florencializardo77@gmail.com
 - 💬 Possiamo comunicarci sia in spagnolo, la mi lingua materna, oppure in italiano.
 
