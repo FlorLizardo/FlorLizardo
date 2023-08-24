@@ -16,7 +16,7 @@ como así también lograr insertarme laboralmente en el mundo IT.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 Sono Florencia, aspirante a  Frontend Developer. Ho studiato e sviluppato alcuni proggetti con HTML, CSS e JS.
-Ho anche conoscenze basiche su Bootstrap, SASS, ReactJS, React Native, Expo Go e Firebase..
+Ho anche conoscenze basiche su Bootstrap, SASS, ReactJS, React Native, Expo Go e Firebase.
 
 Previamente ad incursionare nel mondo dello sviluppo web, ho studiato e lavorato come insegnante di educazione speciale 👩‍.
 Questa professione mi ha permesso di ampliare le mie abilità comunicazionali, il lavoro di squadra, l'empatia, il pensiero critico, tra gli altri.
@@ -25,7 +25,7 @@ Questa professione mi ha permesso di ampliare le mie abilità comunicazionali, i
 - 👯 Mi piacerebbe contribuire in diversi proggetti con delle tecnologie sopra menzionate.
 - 🌱 Al momento, studio Data Analysis di Google, nella piattaforma web di Coursera.
 - 📫 Puoi contattarmi tramite e-mail: florencializardo77@gmail.com
-- 💬 Possiamo comunicarci sia in spagnolo, la mi lingua materna, che sia in italiano.
+- 💬 Possiamo comunicarci sia in spagnolo, la mi lingua materna, sia in italiano.
 
 
 
