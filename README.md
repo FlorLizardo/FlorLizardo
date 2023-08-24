@@ -25,7 +25,7 @@ Questa professione mi ha permesso di ampliare le mie abilità comunicazionali, i
 - 👯 Mi piacerebbe contribuire in diversi proggetti con delle tecnologie sopra menzionate.
 - 🌱 Al momento, studio Data Analysis di Google, nella piattaforma web di Coursera.
 - 📫 Puoi contattarmi tramite e-mail: florencializardo77@gmail.com
-- 💬 Possiamo comunicarci sia in spagnolo, la mi lingua materna, oppure in italiano.
+- 💬 Possiamo comunicarci sia in spagnolo, la mi lingua materna, che sia in italiano.
 
 
 
